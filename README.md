@@ -1,5 +1,8 @@
 asteroidhack
 ============
+FOR COMPLETE INFO SEE: http://echouser.com/blog/asteroid_hackathon-2
+#astrohack twitter.com/echouser
+
 DATA SOURCES: 
 
 http://astrorank.com/mpc
